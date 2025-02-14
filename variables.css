@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Quicksand:wght@300..700&display=swap');
+
+:root {
+	--font-body: 'Quicksand', sans-serif;
+	--font-noto: 'Noto Sans JP', sans-serif;
+	
+	--font-sm: 0.875rem;
+	--font-base: 1rem;
+	--font-lg: 1.125rem;
+	--font-xl: 1.25rem;
+	--font-2xl: 1.5rem;
+	--font-3xl: 2rem;
+	--font-4xl: 3rem;
+	
+	--space-unit: 1em;
+    --space-xxs:  calc(0.25 * var(--space-unit));
+    --space-xs:   calc(0.5 * var(--space-unit));
+    --space-sm:   calc(0.75 * var(--space-unit));
+    --space-md:   calc(1.25 * var(--space-unit));
+    --space-lg:   calc(2 * var(--space-unit));
+    --space-xl:   calc(3.25 * var(--space-unit));
+    --space-xxl:  calc(5.25 * var(--space-unit));
+	
+	--red: #ff004f;
+	--red-50: #fff5f8;
+	--red-100 : #FFEBF1;
+	--red-200 : #FFDDE8;
+	--red-300 : #FFC1D4;
+	--red-400 : #FF7BA4;
+	--red-500 : #FF3D79;
+	--red-600 : #EA0048;
+	--red-700 : #C2003C;
+	--red-800 : #840029;
+	--red-900 : #420014;
+	
+	--orange: #f88605;
+	--orange-50 : #FFFAF5;
+	--orange-100 : #FFF6EB;
+	--orange-200 : #FEEFDE;
+	--orange-300 : #FEE2C2;
+	--orange-400 : #FCC17E;
+	--orange-500 : #FBA441;
+	--orange-600 : #E57C05;
+	--orange-700 : #BE6704;
+	--orange-800 : #814603;
+	--orange-900 : #412301;
+	
+	--blue: #060313;
+	--blue-50 : #F8F6FE;
+	--blue-100 : #F0EEFC;
+	--blue-200 : #E6E2FA;
+	--blue-300 : #D2C9F7;
+	--blue-400 : #9F8DED;
+	--blue-500 : #7257E5;
+	--blue-600 : #4020CA;
+	--blue-700 : #351AA8;
+	--blue-800 : #241272;
+	--blue-900 : #120939;
+	
+	--green: #22aa00;
+	--green-50 : #F7FFF5;
+	--green-100 : #EFFFEB;
+	--green-200 : #E4FFDD;
+	--green-300 : #CDFFC1;
+	--green-400 : #95FF7B;
+	--green-500 : #64FF3D;
+	--green-600 : #2FEA00;
+	--green-700 : #27C200;
+	--green-800 : #1A8400;
+	--green-900 : #0D4200;
+	
+	--grey: #90979b;
+	--grey-50 : #FAFAFA;
+	--grey-100 : #F4F5F6;
+	--grey-200 : #EDEEEF;
+	--grey-300 : #DEE0E2;
+	--grey-400 : #BABEC0;
+	--grey-500 : #999FA3;
+	--grey-600 : #6F777B;
+	--grey-700 : #5C6266;
+	--grey-800 : #3F4345;
+	--grey-900 : #1F2123;
+}
